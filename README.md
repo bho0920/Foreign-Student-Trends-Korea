@@ -10,10 +10,17 @@ South Korea has become a popular destination for international students due to i
 - Identify the most popular degree programs among international students.
 - Provide strategic recommendations for universities to expand their programs effectively.
 
-## Data Source
 
-The dataset was obtained from the Korean Statistical Information Service (KOSIS) under the category "Status of Foreign Students (2010-2023)". Data cleaning and processing steps were applied to focus on relevant years (2019-2023).
+## 📊 Data & Methodology
+### 📌 **Data Source**
+- The dataset was obtained from the Korean Statistical Information Service (KOSIS) under the category "Status of Foreign Students (2010-2023)". 
+- Data cleaning and processing steps were applied to focus on relevant years (2019-2023).
 
+### 🛠 **Tools & Technologies Used**
+- **Google Sheets** – For data processing, structuring and visualization.
+- **GitHub** – For version control and project sharing.
+
+---
 ## Repository Structure
 ```
 /Foreign-Student-Trends-Korea
